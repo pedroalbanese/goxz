@@ -13,7 +13,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/pedroalbanese/gxz"
+	"github.com/pedroalbanese/xz"
 )
 
 var (
