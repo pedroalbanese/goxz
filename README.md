@@ -4,7 +4,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/pedroalbanese/goxz)](https://goreportcard.com/report/github.com/pedroalbanese/goxz)
 [![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/pedroalbanese/goxz)](https://golang.org)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/pedroalbanese/goxz)](https://github.com/pedroalbanese/goxz/releases)
-### Parallel implementation of xz for modern multi-core machines written in Go 
+### Parallel implementation of XZ for modern multi-core machines written in Go 
 <pre>Usage: xz [OPTION]... [FILE]
 Compress or uncompress FILE (by default, compress FILE in-place).
 
