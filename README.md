@@ -1,5 +1,5 @@
 # xz
-[![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/xz-2/blob/master/LICENSE.md) 
+[![ISC License](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](https://github.com/pedroalbanese/xz-2/blob/master/LICENSE.md) 
 [![GoDoc](https://godoc.org/github.com/pedroalbanese/xz-2?status.png)](http://godoc.org/github.com/pedroalbanese/xz-2)
 [![Go Report Card](https://goreportcard.com/badge/github.com/pedroalbanese/xz-2)](https://goreportcard.com/report/github.com/pedroalbanese/xz-2)
 [![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/pedroalbanese/xz-2)](https://golang.org)
